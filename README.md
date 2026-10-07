@@ -1,4 +1,4 @@
-Exo de la première partie de l'année — C# / Windows Forms
+BAC 1 : Exo de la première partie d'année en C# / Windows Forms
 
 ### Démineur
 Jeu de Démineur avec génération de grille, placement aléatoire des mines, etc.
